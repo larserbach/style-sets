@@ -1,72 +1,77 @@
 [
-
     {
         "property": "🌓 Theme",
-        "variants": [{
-          "styleName": "light",
-          "propertyValue": "Light"
-        }]
+        "variants": [
+            {
+                "styleName": "light",
+                "propertyValue": "Light"
+            }
+        ]
     },
     {
-        "variants": [{
-            "stylename": "avatar"
-        }]
+        "variants": [
+            {
+                "styleName": "avatar"
+            }
+        ]
     },
     {
         "property": "🔐 Logged-In",
-        "variants":[{
-            "styleName": "logged-in",
-            "propertyValue" : "true"
-        },
-        {
-            "styleName": "logged-out",
-            "propertyValue" : "false"
-        }]
+        "variants": [
+            {
+                "styleName": "logged-in",
+                "propertyValue": "true"
+            },
+            {
+                "styleName": "logged-out",
+                "propertyValue": "false"
+            }
+        ]
     },
     {
-        "variants": [{
-            "stylename": "fill",
-            "layerName": "",
-            "paintType": "fill"
-
-        },
-        {
-            "stylename": "stroke",
-            "layerName": "",
-            "paintType": "stroke"
-
-        },
-        {
-            "stylename": "content/fill",
-            "layerName": "Content||Label",
-            "paintType": "fill"
-        },
-        {
-            "stylename": "content/stroke",
-            "layerName": "Content||user||stroke",
-            "paintType": "fill"
-        },
-        {
-            "property": "🕹 State",
-            "variants": [
-              {
+        "variants": [
+            {
+                "styleName": "fill",
+                "layerName": "",
+                "paintType": "fill"
+            },
+            {
+                "styleName": "stroke",
+                "layerName": "",
+                "paintType": "stroke"
+            },
+            {
+                "styleName": "content/fill",
+                "layerName": "Content||Label",
+                "paintType": "fill"
+            },
+            {
+                "styleName": "content/stroke",
+                "layerName": "Content||user||stroke",
+                "paintType": "fill"
+            }
+        ]
+    },    
+    {
+        "property": "🕹 State",
+        "variants": [
+            {
                 "propertyValue": "Rest",
                 "styleName": "rest"
-              },
-              {
+            },
+            {
                 "propertyValue": "Hover",
                 "styleName": "hover"
-              },
-              {
+            },
+            {
                 "propertyValue": "Pressed",
                 "styleName": "pressed"
-              },
-              {
+            },
+            {
                 "propertyValue": "Disabled",
                 "styleName": "disabled"
-              }
-            ]
-          }
-    ]
+            }
+        ]
+        
     }
 ]
