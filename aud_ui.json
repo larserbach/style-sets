@@ -31,22 +31,22 @@
     {
         "variants": [
             {
-                "styleName": "surface/fill",
+                "styleName": "fill",
                 "layerName": "",
                 "paintType": "fill"
             },
             {
-                "styleName": "surface/stroke",
+                "styleName": "stroke",
                 "layerName": "",
                 "paintType": "stroke"
             },
             {
-                "styleName": "content/fill",
+                "styleName": "logged-in/content",
                 "layerName": "Content||Label",
                 "paintType": "fill"
             },
             {
-                "styleName": "content/stroke",
+                "styleName": "logged-out/stroke",
                 "layerName": "Content||user||stroke",
                 "paintType": "stroke"
             }
