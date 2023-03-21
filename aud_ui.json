@@ -57,20 +57,20 @@
         "variants": [
             {
                 
-                "styleName": "rest",
-                "propertyValue": "Rest"
+                "propertyValue": "Rest",
+                "styleName": "rest"
             },
             {
-                "styleName": "hover",
-                "propertyValue": "Hover"
+                "propertyValue": "Hover",
+                "styleName": "hover"
             },
             {
-                "styleName": "pressed",
-                "propertyValue": "Pressed"
+                "propertyValue": "Pressed",
+                "styleName": "pressed"
             },
             {
-                "styleName": "disabled",
-                "propertyValue": "Disabled"
+                "propertyValue": "Disabled",
+                "styleName": "disabled"
             }
         ]
         
