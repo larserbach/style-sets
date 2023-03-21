@@ -1,0 +1,82 @@
+[
+            {
+                "variants": [
+                    {
+                        "styleName": "Action"
+                    }
+                ]
+            }, {
+                "property": "🏆 Emphasis",
+                "variants": [
+                    {
+                        "styleName": "CTA",
+                        "propertyValue": "CTA"
+                    },
+                    {
+                        "styleName": "Primary",
+                        "propertyValue": "Primary"
+                    },
+                    {
+                        "styleName": "Secondary",
+                        "propertyValue": "Secondary"
+                    },
+                    {
+                        "styleName": "Silent",
+                        "propertyValue": "Silent"
+                    }, {
+                        "styleName": "Destructive",
+                        "propertyValue": "Destructive"
+                    }, {
+                        "styleName": "Encourage",
+                        "propertyValue": "Encourage"
+                    }
+                ]
+            }, {
+                "variants": [
+                    {
+                        "styleName": "SurfaceFill",
+                        "layerName": "",
+                        "paintType": "fill"
+                    }, {
+                        "styleName": "SurfaceStroke",
+                        "layerName": "",
+                        "paintType": "stroke"
+                    }, {
+                        "styleName": "Icon",
+                        "layerName": "icon-color",
+                        "paintType": "fill"
+                    }, {
+                        "styleName": "Label",
+                        "layerName": "content||Label",
+                        "paintType": "fill"
+                    }
+
+                ]
+            }, {
+                "property": "🕹 State",
+                "variants": [
+                    {
+                        "styleName": "Rest",
+                        "propertyValue": "Rest"
+                    },
+                    {
+                        "styleName": "Hover",
+                        "propertyValue": "Hover"
+                    },
+                    {
+                        "styleName": "Pressed",
+                        "propertyValue": "Pressed"
+                    },
+                    {
+                        "styleName": "Focus",
+                        "propertyValue": "Focus"
+                    }, {
+                        "styleName": "Disabled",
+                        "propertyValue": "Disabled"
+                    }, {
+                        "styleName": "Loading",
+                        "propertyValue": "Loading"
+                    }
+                ]
+            }
+]
