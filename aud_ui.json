@@ -56,21 +56,20 @@
         "property": "🕹️ State",
         "variants": [
             {
-                
-                "propertyValue": "Rest",
-                "styleName": "rest"
+                "styleName": "rest",
+                "propertyValue": "Rest"
             },
             {
-                "propertyValue": "Hover",
-                "styleName": "hover"
+                "styleName": "hover",
+                "propertyValue": "Hover"
             },
             {
-                "propertyValue": "Pressed",
-                "styleName": "pressed"
+                "styleName": "pressed",
+                "propertyValue": "Pressed"
             },
             {
-                "propertyValue": "Disabled",
-                "styleName": "disabled"
+                "styleName": "disabled",
+                "propertyValue": "Disabled"
             }
         ]
         
