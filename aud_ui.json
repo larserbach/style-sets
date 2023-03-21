@@ -20,23 +20,23 @@
         "variants": [
             {
                 "styleName": "logged-in",
-                "propertyValue": "true"
+                "propertyValue": "True"
             },
             {
                 "styleName": "logged-out",
-                "propertyValue": "false"
+                "propertyValue": "False"
             }
         ]
     },
     {
         "variants": [
             {
-                "styleName": "fill",
+                "styleName": "surface/fill",
                 "layerName": "",
                 "paintType": "fill"
             },
             {
-                "styleName": "stroke",
+                "styleName": "surface/stroke",
                 "layerName": "",
                 "paintType": "stroke"
             },
@@ -48,7 +48,7 @@
             {
                 "styleName": "content/stroke",
                 "layerName": "Content||user||stroke",
-                "paintType": "fill"
+                "paintType": "stroke"
             }
         ]
     },    
