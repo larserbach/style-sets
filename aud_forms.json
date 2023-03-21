@@ -1,18 +1,22 @@
 [
     {
       "property": "🌓 Theme",
-      "variants": [{
-        "styleName": "light",
-        "propertyValue": "Light"
-      }]
+      "variants": [
+        {
+          "styleName": "light",
+          "propertyValue": "Light"
+        }
+      ]
     },
     {
-      "variants": [{
-        "styleName": "forms"
-      }]
+      "variants": [
+        {
+          "styleName": "forms"
+        }
+      ]
     },
     {
-        "variants": [
+      "variants": [
         {
             "styleName": "controls/stroke",
             "layerName": "Control",
@@ -68,17 +72,16 @@
           "layerName":  "Switch||Zero",
           "paintType": "fill"  
         },
-
         {
           "styleName": "toggle/knob/fill",
           "layerName":  "Switch||Handle",
           "paintType": "fill"  
         }
-    ]
+      ]
     },
     {
-        "property": "✅ Selected",
-        "variants": [
+      "property": "✅ Selected",
+      "variants": [
         {
             "propertyValue": "false",
             "styleName": "off"
@@ -86,7 +89,8 @@
         {
             "propertyValue": "true",
             "styleName": "on"
-        }]
+        }
+      ]
     },
     {
       "property": "🕹 State",
@@ -113,4 +117,4 @@
         }
       ]
     }
-  ]
+]
