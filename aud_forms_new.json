@@ -1,0 +1,120 @@
+[
+    {
+      "property": "🌓 Theme",
+      "variants": [
+        {
+          "compPropertyValue": "Light",
+          "paintStyleNamePart": "light"
+        }
+      ]
+    },
+    {
+      "variants": [
+        {
+          "paintStyleNamePart": "forms"
+        }
+      ]
+    },
+    {
+      "node-style-relations": [
+        {
+          "nodeName": "Control",
+          "paintStyleNamePart": "controls/stroke",
+          "paintType": "stroke"
+        },
+        {
+          "nodeName": "Control",
+          "paintStyleNamePart": "controls/fill",
+          "paintType": "fill"
+        },
+        {
+          "nodeName": "Checkmark||Stroke",
+          "paintStyleNamePart": "controls/indicator",
+          "paintType": "stroke"
+        },
+        {
+          "nodeName": "Control||dot",
+          "paintStyleNamePart": "controls/indicator",
+          "paintType": "fill"
+        },
+        {
+          "nodeName": "Hint-Txt",
+          "paintStyleNamePart": "fieldset/hint",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName": "Validation||Alignment||Errormessage",
+          "paintStyleNamePart": "fieldset/error",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName": "Caption",
+          "paintStyleNamePart": "fieldset/caption",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName": "Label-Txt",
+          "paintStyleNamePart": "label",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName": "Switch",
+          "paintStyleNamePart": "toggle/fill",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName":  "Switch||One",
+          "paintStyleNamePart": "toggle/icon/fill",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName":  "Switch||Zero",
+          "paintStyleNamePart": "toggle/icon/fill",
+          "paintType": "fill"  
+        },
+        {
+          "nodeName":  "Switch||Handle",
+          "paintStyleNamePart": "toggle/knob/fill",
+          "paintType": "fill"  
+        }
+      ]
+    },
+    {
+      "property": "✅ Selected",
+      "variants": [
+        {
+          "compPropertyValue": "false",
+          "paintStyleNamePart": "off"
+        },
+        {
+          "compPropertyValue": "true",
+          "paintStyleNamePart": "on"
+        }
+      ]
+    },
+    {
+      "property": "🕹 State",
+      "variants": [
+        {
+          "compPropertyValue": "Rest",
+          "paintStyleNamePart": "rest"
+        },
+        {
+          "compPropertyValue": "Hover",
+          "paintStyleNamePart": "hover"
+        },
+        {
+          "compPropertyValue": "Read only",
+          "paintStyleNamePart": "readonly"
+        },
+        {
+          "compPropertyValue": "Disabled",
+          "paintStyleNamePart": "disabled"
+        },
+        {
+          "compPropertyValue": "Error",
+          "paintStyleNamePart": "error"
+        }
+      ]
+    }
+]
