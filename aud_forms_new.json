@@ -8,73 +8,7 @@
         }
       ]
     },
-    {
-       "paintStyleNamePart": "forms"
-    },
-    {
-      "node-style-relations": [
-        {
-          "nodeName": "Control",
-          "matchingPaintStyleNamePart": "controls/stroke",
-          "paintType": "stroke"
-        },
-        {
-          "nodeName": "Control",
-          "matchingPaintStyleNamePart": "controls/fill",
-          "paintType": "fill"
-        },
-        {
-          "nodeName": "Checkmark||Stroke",
-          "matchingPaintStyleNamePart": "controls/indicator",
-          "paintType": "stroke"
-        },
-        {
-          "nodeName": "Control||dot",
-          "matchingPaintStyleNamePart": "controls/indicator",
-          "paintType": "fill"
-        },
-        {
-          "nodeName": "Hint-Txt",
-          "matchingPaintStyleNamePart": "fieldset/hint",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName": "Validation||Alignment||Errormessage",
-          "matchingPaintStyleNamePart": "fieldset/error",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName": "Caption",
-          "matchingPaintStyleNamePart": "fieldset/caption",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName": "Label-Txt",
-          "matchingPaintStyleNamePart": "label",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName": "Switch",
-          "matchingPaintStyleNamePart": "toggle/fill",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName":  "Switch||One",
-          "matchingPaintStyleNamePart": "toggle/icon/fill",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName":  "Switch||Zero",
-          "matchingPaintStyleNamePart": "toggle/icon/fill",
-          "paintType": "fill"  
-        },
-        {
-          "nodeName":  "Switch||Handle",
-          "matchingPaintStyleNamePart": "toggle/knob/fill",
-          "paintType": "fill"  
-        }
-      ]
-    },
+    
     {
       "componentPropKey": "✅ Selected",
       "componentVariants": [
@@ -112,5 +46,72 @@
           "matchingPaintStyleNamePart": "error"
         }
       ]
-    }
+    },
+    {
+      "paintStyleNamePart": "forms"
+   },
+   {
+     "node-style-relations": [
+       {
+         "nodeName": "Control",
+         "matchingPaintStyleNamePart": "controls/stroke",
+         "paintType": "stroke"
+       },
+       {
+         "nodeName": "Control",
+         "matchingPaintStyleNamePart": "controls/fill",
+         "paintType": "fill"
+       },
+       {
+         "nodeName": "Checkmark||Stroke",
+         "matchingPaintStyleNamePart": "controls/indicator",
+         "paintType": "stroke"
+       },
+       {
+         "nodeName": "Control||dot",
+         "matchingPaintStyleNamePart": "controls/indicator",
+         "paintType": "fill"
+       },
+       {
+         "nodeName": "Hint-Txt",
+         "matchingPaintStyleNamePart": "fieldset/hint",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName": "Validation||Alignment||Errormessage",
+         "matchingPaintStyleNamePart": "fieldset/error",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName": "Caption",
+         "matchingPaintStyleNamePart": "fieldset/caption",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName": "Label-Txt",
+         "matchingPaintStyleNamePart": "label",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName": "Switch",
+         "matchingPaintStyleNamePart": "toggle/fill",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName":  "Switch||One",
+         "matchingPaintStyleNamePart": "toggle/icon/fill",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName":  "Switch||Zero",
+         "matchingPaintStyleNamePart": "toggle/icon/fill",
+         "paintType": "fill"  
+       },
+       {
+         "nodeName":  "Switch||Handle",
+         "matchingPaintStyleNamePart": "toggle/knob/fill",
+         "paintType": "fill"  
+       }
+     ]
+   }
 ]
