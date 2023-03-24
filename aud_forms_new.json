@@ -1,119 +1,115 @@
 [
     {
-      "property": "🌓 Theme",
-      "variants": [
+      "componentPropKey": "🌓 Theme",
+      "componentVariants": [
         {
-          "compPropertyValue": "Light",
-          "paintStyleNamePart": "light"
+          "componentPropValue": "Light",
+          "matchingPaintStyleNamePart": "light"
         }
       ]
     },
     {
-      "variants": [
-        {
-          "paintStyleNamePart": "forms"
-        }
-      ]
+       "paintStyleNamePart": "forms"
     },
     {
       "node-style-relations": [
         {
           "nodeName": "Control",
-          "paintStyleNamePart": "controls/stroke",
+          "matchingPaintStyleNamePart": "controls/stroke",
           "paintType": "stroke"
         },
         {
           "nodeName": "Control",
-          "paintStyleNamePart": "controls/fill",
+          "matchingPaintStyleNamePart": "controls/fill",
           "paintType": "fill"
         },
         {
           "nodeName": "Checkmark||Stroke",
-          "paintStyleNamePart": "controls/indicator",
+          "matchingPaintStyleNamePart": "controls/indicator",
           "paintType": "stroke"
         },
         {
           "nodeName": "Control||dot",
-          "paintStyleNamePart": "controls/indicator",
+          "matchingPaintStyleNamePart": "controls/indicator",
           "paintType": "fill"
         },
         {
           "nodeName": "Hint-Txt",
-          "paintStyleNamePart": "fieldset/hint",
+          "matchingPaintStyleNamePart": "fieldset/hint",
           "paintType": "fill"  
         },
         {
           "nodeName": "Validation||Alignment||Errormessage",
-          "paintStyleNamePart": "fieldset/error",
+          "matchingPaintStyleNamePart": "fieldset/error",
           "paintType": "fill"  
         },
         {
           "nodeName": "Caption",
-          "paintStyleNamePart": "fieldset/caption",
+          "matchingPaintStyleNamePart": "fieldset/caption",
           "paintType": "fill"  
         },
         {
           "nodeName": "Label-Txt",
-          "paintStyleNamePart": "label",
+          "matchingPaintStyleNamePart": "label",
           "paintType": "fill"  
         },
         {
           "nodeName": "Switch",
-          "paintStyleNamePart": "toggle/fill",
+          "matchingPaintStyleNamePart": "toggle/fill",
           "paintType": "fill"  
         },
         {
           "nodeName":  "Switch||One",
-          "paintStyleNamePart": "toggle/icon/fill",
+          "matchingPaintStyleNamePart": "toggle/icon/fill",
           "paintType": "fill"  
         },
         {
           "nodeName":  "Switch||Zero",
-          "paintStyleNamePart": "toggle/icon/fill",
+          "matchingPaintStyleNamePart": "toggle/icon/fill",
           "paintType": "fill"  
         },
         {
           "nodeName":  "Switch||Handle",
-          "paintStyleNamePart": "toggle/knob/fill",
+          "matchingPaintStyleNamePart": "toggle/knob/fill",
           "paintType": "fill"  
         }
       ]
     },
     {
-      "property": "✅ Selected",
-      "variants": [
+      "componentPropKey": "✅ Selected",
+      "componentVariants": [
         {
-          "compPropertyValue": "false",
-          "paintStyleNamePart": "off"
+          "componentPropValue": "false",
+          "matchingPaintStyleNamePart": "off"
         },
         {
-          "compPropertyValue": "true",
-          "paintStyleNamePart": "on"
+          "componentPropValue": "true",
+          "matchingPaintStyleNamePart": "on"
         }
       ]
     },
     {
-      "property": "🕹 State",
-      "variants": [
+      "componentPropKey": "🕹 State",
+      "componentVariants": [
         {
-          "compPropertyValue": "Rest",
-          "paintStyleNamePart": "rest"
+          "componentPropValue": "Rest",
+          "matchingPaintStyleNamePart": "rest"
         },
         {
-          "compPropertyValue": "Hover",
-          "paintStyleNamePart": "hover"
+          "componentPropValue": "Hover",
+          "matchingPaintStyleNamePart": "hover"
         },
         {
-          "compPropertyValue": "Read only",
-          "paintStyleNamePart": "readonly"
+          "componentPropValue": "Read only",
+          "matchingPaintStyleNamePart": "readonly"
         },
         {
-          "compPropertyValue": "Disabled",
-          "paintStyleNamePart": "disabled"
+          "componentPropValue": "Disabled",
+          "matchingPaintStyleNamePart": "disabled"
         },
         {
-          "compPropertyValue": "Error",
-          "paintStyleNamePart": "error"
+          "componentPropValue": "Error",
+          "matchingPaintStyleNamePart": "error"
         }
       ]
     }
