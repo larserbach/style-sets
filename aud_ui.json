@@ -1,6 +1,6 @@
 [
     {
-        "property": "🌓 Theme",
+        "propertyName": "🌓 Theme",
         "variants": [
             {
                 "styleName": "light",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "property": "🔐 Logged-In",
+        "propertyName": "🔐 Logged-In",
         "variants": [
             {
                 "styleName": "logged-in",
@@ -53,7 +53,7 @@
         ]
     },    
     {
-        "property": "🕹️ State",
+        "propertyName": "🕹️ State",
         "variants": [
             {
                 "styleName": "rest",

@@ -1,6 +1,6 @@
 [
     {
-      "property": "🌓 Theme",
+      "propertyName": "🌓 Theme",
       "variants": [
         {
           "styleName": "light",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "property": "✅ Selected",
+      "propertyName": "✅ Selected",
       "variants": [
         {
             "propertyValue": "false",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "property": "🕹 State",
+      "propertyName": "🕹 State",
       "variants": [
         {
           "propertyValue": "Rest",

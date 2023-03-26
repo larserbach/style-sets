@@ -6,7 +6,7 @@
                     }
                 ]
             }, {
-                "property": "🏆 Emphasis",
+                "propertyName": "🏆 Emphasis",
                 "variants": [
                     {
                         "styleName": "CTA",
@@ -53,7 +53,7 @@
 
                 ]
             }, {
-                "property": "🕹 State",
+                "propertyName": "🕹 State",
                 "variants": [
                     {
                         "styleName": "Rest",
