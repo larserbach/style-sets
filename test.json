@@ -4,7 +4,7 @@
         "variants": [
         {
             "styleName": "light",
-            "propertyValue": "Light"
+            "propertyValue___": "Light"
         }
         ]
     }
