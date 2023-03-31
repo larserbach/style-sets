@@ -3,8 +3,8 @@
         "propertyName": "🌓 Theme",
         "variants": [
         {
-            "styleName": "light",
-            "propertyValue___": "Light"
+            "styleName__": "light",
+            "propertyValue": "Light"
         }
         ]
     }
