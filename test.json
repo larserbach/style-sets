@@ -1,5 +1,5 @@
-
-    {
+[
+    [{
         "propertyName": "🌓 Theme",
         "variants": [
         {
@@ -7,4 +7,5 @@
             "propertyValue": "Light"
         }
         ]
-    }
+    }]
+]
