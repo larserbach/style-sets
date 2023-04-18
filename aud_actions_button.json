@@ -1,0 +1,93 @@
+[
+  {
+    "propertyName": "🌓 Theme",
+    "variants": [
+      {
+        "styleName": "Light",
+        "propertyValue": "Light"
+      }
+    ]
+  },
+  {
+    "variants": [
+      {
+        "styleName": "Action"
+      }
+    ]
+  },
+  {
+    "propertyName": "🏆 Emphasis",
+    "variants": [
+      {
+        "styleName": "Primary",
+        "propertyValue": "Primary"
+      },
+      {
+        "styleName": "Secondary",
+        "propertyValue": "Secondary"
+      },
+      {
+        "styleName": "Silent",
+        "propertyValue": "Silent"
+      }
+    ]
+  },
+  {
+    "variants": [
+      {
+        "styleName": "Fill",
+        "layerName": "",
+        "paintType": "fill"
+      },
+      {
+        "styleName": "Content",
+        "layerName": "color",
+        "paintType": "fill"
+      },
+      {
+        "styleName": "Content",
+        "layerName": "Label",
+        "paintType": "fill"
+      },
+      {
+        "styleName": "Stroke",
+        "layerName": "",
+        "paintType": "stroke"
+      },
+      {
+        "styleName": "Content",
+        "layerName": ".ProgressIndicator||indicator",
+        "paintType": "fill"
+      }
+    ]
+  },
+  {
+    "propertyName": "🕹 State",
+    "variants": [
+      {
+        "styleName": "Rest",
+        "propertyValue": "Rest"
+      },
+      {
+        "styleName": "Hover",
+        "propertyValue": "Hover"
+      },
+      {
+        "styleName": "Disabled",
+        "propertyValue": "Disabled"
+      },
+      {
+        "styleName": "Pressed",
+        "propertyValue": "Pressed"
+      },
+      {
+        "styleName": "Loading",
+        "propertyValue": "Loading"
+      },
+      {
+        "styleName": "Focus",
+        "propertyValue": "Focus"
+      }
+    ]
+  }
+]
