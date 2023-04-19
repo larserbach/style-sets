@@ -45,6 +45,16 @@
         "paintType": "fill"
       },
       {
+        "styleName": "ContentOnSurface",
+        "layerName": "Content||Label",
+        "paintType": "fill"
+      },
+      {
+        "styleName": "ContentOffSurface",
+        "layerName": "labelWrapper||Label",
+        "paintType": "fill"
+      },
+      {
         "styleName": "Stroke",
         "layerName": "",
         "paintType": "stroke"
