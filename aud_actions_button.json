@@ -50,14 +50,19 @@
         "paintType": "fill"
       },
       {
-        "styleName": "Stroke",
-        "layerName": "",
-        "paintType": "stroke"
+        "styleName": "Content",
+        "layerName": "Subline",
+        "paintType": "fill"
       },
       {
         "styleName": "Content",
         "layerName": ".ProgressIndicator||indicator",
         "paintType": "fill"
+      },
+      {
+        "styleName": "Stroke",
+        "layerName": "",
+        "paintType": "stroke"
       }
     ]
   },
