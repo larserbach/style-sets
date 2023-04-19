@@ -41,22 +41,7 @@
       },
       {
         "styleName": "Content",
-        "layerName": "color",
-        "paintType": "fill"
-      },
-      {
-        "styleName": "Content",
         "layerName": "Label",
-        "paintType": "fill"
-      },
-      {
-        "styleName": "Content",
-        "layerName": "Subline",
-        "paintType": "fill"
-      },
-      {
-        "styleName": "Content",
-        "layerName": ".ProgressIndicator||indicator",
         "paintType": "fill"
       },
       {
