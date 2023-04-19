@@ -46,7 +46,7 @@
       },
       {
         "styleName": "ContentOnSurface",
-        "layerName": "Content||Container||Label",
+        "layerName": ["Content||Container||Label", "Subline"],
         "paintType": "fill"
       },
       {
