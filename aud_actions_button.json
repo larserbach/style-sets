@@ -41,17 +41,30 @@
       },
       {
         "styleName": "Content",
-        "layerName": "Label",
+        "layerName": [
+          "Label",
+          "IconLeading||color",
+          "IconTrailing||color",
+          "IconCenter||color",
+          ".ProgressIndicator||indicator"
+        ],
         "paintType": "fill"
       },
       {
         "styleName": "ContentOnSurface",
-        "layerName": ["Content||Container||Label","Subline","IconLeading||color",".ProgressIndicator||indicator"],
+        "layerName": [
+          "Label",
+          "Subline",
+          "IconLeading||color",
+          "IconTrailing||color",
+          "IconCenter||color",
+          ".ProgressIndicator||indicator"
+        ],
         "paintType": "fill"
       },
       {
         "styleName": "ContentOffSurface",
-        "layerName": "labelWrapper||Label",
+        "layerName": "LabelOffContent",
         "paintType": "fill"
       },
       {
