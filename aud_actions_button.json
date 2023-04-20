@@ -43,6 +43,7 @@
         "styleName": "Content",
         "layerName": [
           "Label",
+          "LabelOffContent",
           "IconLeading||color",
           "IconTrailing||color",
           "CenterIcon||color",
