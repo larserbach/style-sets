@@ -46,7 +46,7 @@
       },
       {
         "styleName": "ContentOnSurface",
-        "layerName": ["Content||Container||Label", "Subline"],
+        "layerName": ["Content||Container||Label", "Subline", "IconLeading||color", ".ProgressIndicator||indicator" ],
         "paintType": "fill"
       },
       {
