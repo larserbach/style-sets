@@ -45,8 +45,10 @@
           "Label",
           "IconLeading||color",
           "IconTrailing||color",
-          "IconCenter||color",
-          ".ProgressIndicator||indicator"
+          "CenterIcon||color",
+          ".ProgressIndicator||indicator",
+          "Spinner||circle",
+          "Spinner||Progress"
         ],
         "paintType": "fill"
       },
@@ -57,8 +59,10 @@
           "Subline",
           "IconLeading||color",
           "IconTrailing||color",
-          "IconCenter||color",
-          ".ProgressIndicator||indicator"
+          "CenterIcon||color",
+          ".ProgressIndicator||indicator",
+          "Spinner||circle",
+          "Spinner||Progress"
         ],
         "paintType": "fill"
       },
