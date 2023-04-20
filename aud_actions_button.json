@@ -40,6 +40,11 @@
         "paintType": "fill"
       },
       {
+        "styleName": "Stroke",
+        "layerName": ["", "Spinner", "stateLayer"],
+        "paintType": "stroke"
+      },
+      {
         "styleName": "Content",
         "layerName": [
           "Label",
@@ -71,11 +76,6 @@
         "styleName": "ContentOffSurface",
         "layerName": "LabelOffContent",
         "paintType": "fill"
-      },
-      {
-        "styleName": "Stroke",
-        "layerName": "",
-        "paintType": "stroke"
       }
     ]
   },
