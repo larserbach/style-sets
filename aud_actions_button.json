@@ -36,7 +36,7 @@
     "variants": [
       {
         "styleName": "Fill",
-        "layerName": "",
+        "layerName": ["", "Spinner"],
         "paintType": "fill"
       },
       {
