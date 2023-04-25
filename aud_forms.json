@@ -1,120 +1,120 @@
 [
-    {
-      "propertyName": "🌓 Theme",
-      "variants": [
-        {
-          "styleName": "light",
-          "propertyValue": "Light"
-        }
-      ]
-    },
-    {
-      "variants": [
-        {
-          "styleName": "forms"
-        }
-      ]
-    },
-    {
-      "variants": [
-        {
-            "styleName": "controls/stroke",
-            "layerName": "Control",
-            "paintType": "stroke"
-        },
-        {
-            "styleName": "controls/fill",
-            "layerName": "Control",
-            "paintType": "fill"
-        },
-        {
-            "styleName": "controls/indicator",
-            "layerName": "Checkmark||Stroke",
-            "paintType": "stroke"
-        },
-        {
-            "styleName": "controls/indicator",
-            "layerName": "Control||dot",
-            "paintType": "fill"
-        },
-        {
-            "styleName": "fieldset/hint",
-            "layerName": "Hint-Txt",
-            "paintType": "fill"  
-        },
-        {
-            "styleName": "fieldset/error",
-            "layerName": "Validation||Alignment||Errormessage",
-            "paintType": "fill"  
-        },
-        {
-            "styleName": "fieldset/caption",
-            "layerName": "Caption",
-            "paintType": "fill"  
-        },
-        {
-            "styleName": "label",
-            "layerName": "Label-Txt",
-            "paintType": "fill"  
-        },
-        {
-            "styleName": "toggle/fill",
-            "layerName": "Switch",
-            "paintType": "fill"  
-        },
-        {
-          "styleName": "toggle/icon/fill",
-          "layerName":  "Switch||One",
+  {
+    "propertyName": "🌓 Theme",
+    "variants": [
+      {
+        "styleName": "Light",
+        "propertyValue": "Light"
+      }
+    ]
+  },
+  {
+    "variants": [
+      {
+        "styleName": "Forms"
+      }
+    ]
+  },
+  {
+    "variants": [
+      {
+          "styleName": "Controls/Stroke",
+          "layerName": "Control",
+          "paintType": "stroke"
+      },
+      {
+          "styleName": "Controls/Fill",
+          "layerName": "Control",
+          "paintType": "fill"
+      },
+      {
+          "styleName": "Controls/Indicator",
+          "layerName": "Checkmark||Stroke",
+          "paintType": "stroke"
+      },
+      {
+          "styleName": "Controls/Indicator",
+          "layerName": "Control||dot",
+          "paintType": "fill"
+      },
+      {
+          "styleName": "Fieldset/Hint",
+          "layerName": "Hint-Txt",
           "paintType": "fill"  
-        },
-        {
-          "styleName": "toggle/icon/fill",
-          "layerName":  "Switch||Zero",
+      },
+      {
+          "styleName": "Fieldset/Error",
+          "layerName": "Validation||Alignment||Errormessage",
           "paintType": "fill"  
-        },
-        {
-          "styleName": "toggle/knob/fill",
-          "layerName":  "Switch||Handle",
+      },
+      {
+          "styleName": "Fieldset/Caption",
+          "layerName": "Caption",
           "paintType": "fill"  
-        }
-      ]
-    },
-    {
-      "propertyName": "✅ Selected",
-      "variants": [
-        {
-            "propertyValue": "false",
-            "styleName": "off"
-        },
-        {
-            "propertyValue": "true",
-            "styleName": "on"
-        }
-      ]
-    },
-    {
-      "propertyName": "🕹 State",
-      "variants": [
-        {
-          "propertyValue": "Rest",
-          "styleName": "rest"
-        },
-        {
-          "propertyValue": "Hover",
-          "styleName": "hover"
-        },
-        {
-          "propertyValue": "Read only",
-          "styleName": "readonly"
-        },
-        {
-          "propertyValue": "Disabled",
-          "styleName": "disabled"
-        },
-        {
-          "propertyValue": "Error",
-          "styleName": "error"
-        }
-      ]
-    }
+      },
+      {
+          "styleName": "Label",
+          "layerName": "Label-Txt",
+          "paintType": "fill"  
+      },
+      {
+          "styleName": "Toggle/Fill",
+          "layerName": "Switch",
+          "paintType": "fill"  
+      },
+      {
+        "styleName": "Toggle/Icon/Fill",
+        "layerName":  "Switch||One",
+        "paintType": "fill"  
+      },
+      {
+        "styleName": "Toggle/Icon/Fill",
+        "layerName":  "Switch||Zero",
+        "paintType": "fill"  
+      },
+      {
+        "styleName": "Toggle/Knob/Fill",
+        "layerName":  "Switch||Handle",
+        "paintType": "fill"  
+      }
+    ]
+  },
+  {
+    "propertyName": "✅ Selected",
+    "variants": [
+      {
+          "propertyValue": "False",
+          "styleName": "Off"
+      },
+      {
+          "propertyValue": "True",
+          "styleName": "On"
+      }
+    ]
+  },
+  {
+    "propertyName": "🕹 State",
+    "variants": [
+      {
+        "propertyValue": "Rest",
+        "styleName": "Rest"
+      },
+      {
+        "propertyValue": "Hover",
+        "styleName": "Hover"
+      },
+      {
+        "propertyValue": "Read only",
+        "styleName": "ReadOnly"
+      },
+      {
+        "propertyValue": "Disabled",
+        "styleName": "Disabled"
+      },
+      {
+        "propertyValue": "Error",
+        "styleName": "Error"
+      }
+    ]
+  }
 ]
