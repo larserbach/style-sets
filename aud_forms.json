@@ -11,69 +11,69 @@
     {
       "variants": [
         {
-          "styleName": "forms"
+          "styleName": "Forms"
         }
       ]
     },
     {
       "variants": [
         {
-            "styleName": "controls/stroke",
+            "styleName": "Controls/Stroke",
             "layerName": "Control",
             "paintType": "stroke"
         },
         {
-            "styleName": "controls/fill",
+            "styleName": "Controls/Fill",
             "layerName": "Control",
             "paintType": "fill"
         },
         {
-            "styleName": "controls/indicator",
+            "styleName": "Controls/Indicator",
             "layerName": "Checkmark||Stroke",
             "paintType": "stroke"
         },
         {
-            "styleName": "controls/indicator",
+            "styleName": "Controls/Indicator",
             "layerName": "Control||dot",
             "paintType": "fill"
         },
         {
-            "styleName": "fieldset/hint",
+            "styleName": "Fieldset/Hint",
             "layerName": "Hint-Txt",
             "paintType": "fill"  
         },
         {
-            "styleName": "fieldset/error",
+            "styleName": "Fieldset/Error",
             "layerName": "Validation||Alignment||Errormessage",
             "paintType": "fill"  
         },
         {
-            "styleName": "fieldset/caption",
+            "styleName": "Fieldset/Caption",
             "layerName": "Caption",
             "paintType": "fill"  
         },
         {
-            "styleName": "label",
+            "styleName": "Label",
             "layerName": "Label-Txt",
             "paintType": "fill"  
         },
         {
-            "styleName": "toggle/fill",
+            "styleName": "Toggle/Fill",
             "layerName": "Switch",
             "paintType": "fill"  
         },
         {
-          "styleName": "toggle/icon/fill",
+          "styleName": "Toggle/Icon/Fill",
           "layerName":  "Switch||One",
           "paintType": "fill"  
         },
         {
-          "styleName": "toggle/icon/fill",
+          "styleName": "Toggle/Icon/Fill",
           "layerName":  "Switch||Zero",
           "paintType": "fill"  
         },
         {
-          "styleName": "toggle/knob/fill",
+          "styleName": "Toggle/Knob/Fill",
           "layerName":  "Switch||Handle",
           "paintType": "fill"  
         }
@@ -83,12 +83,12 @@
       "propertyName": "✅ Selected",
       "variants": [
         {
-            "propertyValue": "false",
-            "styleName": "off"
+            "propertyValue": "False",
+            "styleName": "Off"
         },
         {
-            "propertyValue": "true",
-            "styleName": "on"
+            "propertyValue": "True",
+            "styleName": "On"
         }
       ]
     },
@@ -97,23 +97,23 @@
       "variants": [
         {
           "propertyValue": "Rest",
-          "styleName": "rest"
+          "styleName": "Rest"
         },
         {
           "propertyValue": "Hover",
-          "styleName": "hover"
+          "styleName": "Hover"
         },
         {
           "propertyValue": "Read only",
-          "styleName": "readonly"
+          "styleName": "ReadOnly"
         },
         {
           "propertyValue": "Disabled",
-          "styleName": "disabled"
+          "styleName": "Disabled"
         },
         {
           "propertyValue": "Error",
-          "styleName": "error"
+          "styleName": "Error"
         }
       ]
     }
